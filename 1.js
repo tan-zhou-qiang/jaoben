@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         谭周强
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  第一个脚本
 // @author       tan
 // @match        *://*.zhihu.com/*
@@ -11,5 +11,5 @@
  
 (function() {
     'use strict';
-    console.log("hello,app");
+    console.log("hello,word");
 })();
